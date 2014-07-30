@@ -19,6 +19,26 @@
 		88464BC919889F6100FFB496 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88464BB119889F6100FFB496 /* UIKit.framework */; };
 		88464BD119889F6100FFB496 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 88464BCF19889F6100FFB496 /* InfoPlist.strings */; };
 		88464BD319889F6100FFB496 /* pupudemo1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 88464BD219889F6100FFB496 /* pupudemo1Tests.m */; };
+		88464BE01988A1CD00FFB496 /* AboutUsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 88464BDE1988A1CD00FFB496 /* AboutUsViewController.m */; };
+		88464BE11988A1CD00FFB496 /* AboutUsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 88464BDF1988A1CD00FFB496 /* AboutUsViewController.xib */; };
+		88464BE41988A1D500FFB496 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 88464BE31988A1D500FFB496 /* BaseViewController.m */; };
+		88464BE71988A1DF00FFB496 /* Constants.m in Sources */ = {isa = PBXBuildFile; fileRef = 88464BE61988A1DF00FFB496 /* Constants.m */; };
+		88464BEB1988A1ED00FFB496 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 88464BE91988A1ED00FFB496 /* HomeViewController.m */; };
+		88464BEC1988A1ED00FFB496 /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 88464BEA1988A1ED00FFB496 /* HomeViewController.xib */; };
+		88464BF01988A1F800FFB496 /* MenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 88464BEE1988A1F800FFB496 /* MenuViewController.m */; };
+		88464BF11988A1F800FFB496 /* MenuViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 88464BEF1988A1F800FFB496 /* MenuViewController.xib */; };
+		88464BF91988A21300FFB496 /* MyAccount.m in Sources */ = {isa = PBXBuildFile; fileRef = 88464BF41988A21300FFB496 /* MyAccount.m */; };
+		88464BFA1988A21300FFB496 /* MyNews.m in Sources */ = {isa = PBXBuildFile; fileRef = 88464BF61988A21300FFB496 /* MyNews.m */; };
+		88464BFB1988A21300FFB496 /* MyTapGestureRecognizer.m in Sources */ = {isa = PBXBuildFile; fileRef = 88464BF81988A21300FFB496 /* MyTapGestureRecognizer.m */; };
+		88464C001988A21C00FFB496 /* NewsListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 88464BFD1988A21C00FFB496 /* NewsListViewController.m */; };
+		88464C011988A21C00FFB496 /* NewsListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 88464BFE1988A21C00FFB496 /* NewsListViewController.xib */; };
+		88464C021988A21C00FFB496 /* NewsListViewControllerTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 88464BFF1988A21C00FFB496 /* NewsListViewControllerTableViewCell.xib */; };
+		88464C061988A23200FFB496 /* PullRefreshTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 88464C051988A23200FFB496 /* PullRefreshTableViewController.m */; };
+		88464C0A1988A23A00FFB496 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 88464C081988A23A00FFB496 /* RootViewController.m */; };
+		88464C0B1988A23A00FFB496 /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 88464C091988A23A00FFB496 /* RootViewController.xib */; };
+		88464C0F1988A24200FFB496 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 88464C0E1988A24200FFB496 /* SWRevealViewController.m */; };
+		88464C111988A24A00FFB496 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88464C101988A24A00FFB496 /* QuartzCore.framework */; };
+		88464C181988A27A00FFB496 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 88464C1A1988A27A00FFB496 /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +68,44 @@
 		88464BCE19889F6100FFB496 /* pupudemo1Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "pupudemo1Tests-Info.plist"; sourceTree = "<group>"; };
 		88464BD019889F6100FFB496 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		88464BD219889F6100FFB496 /* pupudemo1Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = pupudemo1Tests.m; sourceTree = "<group>"; };
+		88464BDD1988A1CD00FFB496 /* AboutUsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutUsViewController.h; sourceTree = "<group>"; };
+		88464BDE1988A1CD00FFB496 /* AboutUsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutUsViewController.m; sourceTree = "<group>"; };
+		88464BDF1988A1CD00FFB496 /* AboutUsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AboutUsViewController.xib; sourceTree = "<group>"; };
+		88464BE21988A1D500FFB496 /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
+		88464BE31988A1D500FFB496 /* BaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
+		88464BE51988A1DF00FFB496 /* Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constants.h; sourceTree = "<group>"; };
+		88464BE61988A1DF00FFB496 /* Constants.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Constants.m; sourceTree = "<group>"; };
+		88464BE81988A1ED00FFB496 /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		88464BE91988A1ED00FFB496 /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
+		88464BEA1988A1ED00FFB496 /* HomeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
+		88464BED1988A1F800FFB496 /* MenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MenuViewController.h; sourceTree = "<group>"; };
+		88464BEE1988A1F800FFB496 /* MenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MenuViewController.m; sourceTree = "<group>"; };
+		88464BEF1988A1F800FFB496 /* MenuViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MenuViewController.xib; sourceTree = "<group>"; };
+		88464BF31988A21300FFB496 /* MyAccount.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyAccount.h; sourceTree = "<group>"; };
+		88464BF41988A21300FFB496 /* MyAccount.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyAccount.m; sourceTree = "<group>"; };
+		88464BF51988A21300FFB496 /* MyNews.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyNews.h; sourceTree = "<group>"; };
+		88464BF61988A21300FFB496 /* MyNews.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyNews.m; sourceTree = "<group>"; };
+		88464BF71988A21300FFB496 /* MyTapGestureRecognizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyTapGestureRecognizer.h; sourceTree = "<group>"; };
+		88464BF81988A21300FFB496 /* MyTapGestureRecognizer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyTapGestureRecognizer.m; sourceTree = "<group>"; };
+		88464BFC1988A21C00FFB496 /* NewsListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewsListViewController.h; sourceTree = "<group>"; };
+		88464BFD1988A21C00FFB496 /* NewsListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewsListViewController.m; sourceTree = "<group>"; };
+		88464BFE1988A21C00FFB496 /* NewsListViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NewsListViewController.xib; sourceTree = "<group>"; };
+		88464BFF1988A21C00FFB496 /* NewsListViewControllerTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NewsListViewControllerTableViewCell.xib; sourceTree = "<group>"; };
+		88464C041988A23200FFB496 /* PullRefreshTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PullRefreshTableViewController.h; sourceTree = "<group>"; };
+		88464C051988A23200FFB496 /* PullRefreshTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PullRefreshTableViewController.m; sourceTree = "<group>"; };
+		88464C071988A23A00FFB496 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		88464C081988A23A00FFB496 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		88464C091988A23A00FFB496 /* RootViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RootViewController.xib; sourceTree = "<group>"; };
+		88464C0D1988A24200FFB496 /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
+		88464C0E1988A24200FFB496 /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
+		88464C101988A24A00FFB496 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		88464C121988A25300FFB496 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		88464C131988A25300FFB496 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		88464C141988A25800FFB496 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		88464C151988A25800FFB496 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		88464C191988A27A00FFB496 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		88464C1B1988A27D00FFB496 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		88464C1C1988A27E00FFB496 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +113,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88464C111988A24A00FFB496 /* QuartzCore.framework in Frameworks */,
 				88464BB019889F6100FFB496 /* CoreGraphics.framework in Frameworks */,
 				88464BB219889F6100FFB496 /* UIKit.framework in Frameworks */,
 				88464BAE19889F6100FFB496 /* Foundation.framework in Frameworks */,
@@ -96,6 +155,7 @@
 		88464BAC19889F6100FFB496 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				88464C101988A24A00FFB496 /* QuartzCore.framework */,
 				88464BAD19889F6100FFB496 /* Foundation.framework */,
 				88464BAF19889F6100FFB496 /* CoreGraphics.framework */,
 				88464BB119889F6100FFB496 /* UIKit.framework */,
@@ -110,7 +170,13 @@
 				88464BBC19889F6100FFB496 /* AppDelegate.h */,
 				88464BBD19889F6100FFB496 /* AppDelegate.m */,
 				88464BBF19889F6100FFB496 /* Images.xcassets */,
+				88464C031988A23200FFB496 /* PullRefresh */,
+				88464C0C1988A24200FFB496 /* SWRevealViewController */,
 				88464BB419889F6100FFB496 /* Supporting Files */,
+				88464BE51988A1DF00FFB496 /* Constants.h */,
+				88464BE61988A1DF00FFB496 /* Constants.m */,
+				88464BDC1988A1B900FFB496 /* ViewController */,
+				88464BF21988A20100FFB496 /* Model */,
 			);
 			path = pupudemo1;
 			sourceTree = "<group>";
@@ -122,6 +188,7 @@
 				88464BB619889F6100FFB496 /* InfoPlist.strings */,
 				88464BB919889F6100FFB496 /* main.m */,
 				88464BBB19889F6100FFB496 /* pupudemo1-Prefix.pch */,
+				88464C1A1988A27A00FFB496 /* Localizable.strings */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -142,6 +209,62 @@
 				88464BCF19889F6100FFB496 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		88464BDC1988A1B900FFB496 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				88464BE21988A1D500FFB496 /* BaseViewController.h */,
+				88464BE31988A1D500FFB496 /* BaseViewController.m */,
+				88464C071988A23A00FFB496 /* RootViewController.h */,
+				88464C081988A23A00FFB496 /* RootViewController.m */,
+				88464C091988A23A00FFB496 /* RootViewController.xib */,
+				88464BE81988A1ED00FFB496 /* HomeViewController.h */,
+				88464BE91988A1ED00FFB496 /* HomeViewController.m */,
+				88464BEA1988A1ED00FFB496 /* HomeViewController.xib */,
+				88464BED1988A1F800FFB496 /* MenuViewController.h */,
+				88464BEE1988A1F800FFB496 /* MenuViewController.m */,
+				88464BEF1988A1F800FFB496 /* MenuViewController.xib */,
+				88464BFC1988A21C00FFB496 /* NewsListViewController.h */,
+				88464BFD1988A21C00FFB496 /* NewsListViewController.m */,
+				88464BFE1988A21C00FFB496 /* NewsListViewController.xib */,
+				88464BFF1988A21C00FFB496 /* NewsListViewControllerTableViewCell.xib */,
+				88464BDD1988A1CD00FFB496 /* AboutUsViewController.h */,
+				88464BDE1988A1CD00FFB496 /* AboutUsViewController.m */,
+				88464BDF1988A1CD00FFB496 /* AboutUsViewController.xib */,
+			);
+			name = ViewController;
+			sourceTree = "<group>";
+		};
+		88464BF21988A20100FFB496 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				88464BF31988A21300FFB496 /* MyAccount.h */,
+				88464BF41988A21300FFB496 /* MyAccount.m */,
+				88464BF51988A21300FFB496 /* MyNews.h */,
+				88464BF61988A21300FFB496 /* MyNews.m */,
+				88464BF71988A21300FFB496 /* MyTapGestureRecognizer.h */,
+				88464BF81988A21300FFB496 /* MyTapGestureRecognizer.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		88464C031988A23200FFB496 /* PullRefresh */ = {
+			isa = PBXGroup;
+			children = (
+				88464C041988A23200FFB496 /* PullRefreshTableViewController.h */,
+				88464C051988A23200FFB496 /* PullRefreshTableViewController.m */,
+			);
+			path = PullRefresh;
+			sourceTree = "<group>";
+		};
+		88464C0C1988A24200FFB496 /* SWRevealViewController */ = {
+			isa = PBXGroup;
+			children = (
+				88464C0D1988A24200FFB496 /* SWRevealViewController.h */,
+				88464C0E1988A24200FFB496 /* SWRevealViewController.m */,
+			);
+			path = SWRevealViewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -202,6 +325,8 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				"zh-Hant",
+				"zh-Hans",
 			);
 			mainGroup = 88464BA119889F6100FFB496;
 			productRefGroup = 88464BAB19889F6100FFB496 /* Products */;
@@ -219,8 +344,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88464BE11988A1CD00FFB496 /* AboutUsViewController.xib in Resources */,
+				88464C021988A21C00FFB496 /* NewsListViewControllerTableViewCell.xib in Resources */,
+				88464C0B1988A23A00FFB496 /* RootViewController.xib in Resources */,
+				88464C011988A21C00FFB496 /* NewsListViewController.xib in Resources */,
+				88464C181988A27A00FFB496 /* Localizable.strings in Resources */,
 				88464BB819889F6100FFB496 /* InfoPlist.strings in Resources */,
+				88464BF11988A1F800FFB496 /* MenuViewController.xib in Resources */,
 				88464BC019889F6100FFB496 /* Images.xcassets in Resources */,
+				88464BEC1988A1ED00FFB496 /* HomeViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,8 +371,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88464BE71988A1DF00FFB496 /* Constants.m in Sources */,
+				88464BF91988A21300FFB496 /* MyAccount.m in Sources */,
 				88464BBE19889F6100FFB496 /* AppDelegate.m in Sources */,
+				88464BE41988A1D500FFB496 /* BaseViewController.m in Sources */,
+				88464C061988A23200FFB496 /* PullRefreshTableViewController.m in Sources */,
 				88464BBA19889F6100FFB496 /* main.m in Sources */,
+				88464BF01988A1F800FFB496 /* MenuViewController.m in Sources */,
+				88464C0F1988A24200FFB496 /* SWRevealViewController.m in Sources */,
+				88464BFA1988A21300FFB496 /* MyNews.m in Sources */,
+				88464BE01988A1CD00FFB496 /* AboutUsViewController.m in Sources */,
+				88464BEB1988A1ED00FFB496 /* HomeViewController.m in Sources */,
+				88464C0A1988A23A00FFB496 /* RootViewController.m in Sources */,
+				88464BFB1988A21300FFB496 /* MyTapGestureRecognizer.m in Sources */,
+				88464C001988A21C00FFB496 /* NewsListViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,6 +411,8 @@
 			isa = PBXVariantGroup;
 			children = (
 				88464BB719889F6100FFB496 /* en */,
+				88464C121988A25300FFB496 /* zh-Hant */,
+				88464C141988A25800FFB496 /* zh-Hans */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -275,8 +421,20 @@
 			isa = PBXVariantGroup;
 			children = (
 				88464BD019889F6100FFB496 /* en */,
+				88464C131988A25300FFB496 /* zh-Hant */,
+				88464C151988A25800FFB496 /* zh-Hans */,
 			);
 			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		88464C1A1988A27A00FFB496 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				88464C191988A27A00FFB496 /* en */,
+				88464C1B1988A27D00FFB496 /* zh-Hant */,
+				88464C1C1988A27E00FFB496 /* zh-Hans */,
+			);
+			name = Localizable.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -437,6 +595,7 @@
 				88464BD819889F6100FFB496 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		88464BD919889F6100FFB496 /* Build configuration list for PBXNativeTarget "pupudemo1Tests" */ = {
 			isa = XCConfigurationList;
@@ -445,6 +604,7 @@
 				88464BDB19889F6100FFB496 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

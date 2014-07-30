@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  pupudemo1
+
+  Created by Paul Yip on 30/7/14.
+  Copyright (c) 2014 safecapital. All rights reserved.
+*/
+
+"NEWS_TITLE" = "普普小秘书";
+"ABOUT_US_TITLE" = "关于我们";
+"ABOUT_US_DESC" = "普普旗下产品在国内有上百万个人用户，国内外机构用户中不乏知名巨头，凭借独家的全网信息观点分析技术服务覆盖股票、外汇、期货、基金多个行业，客户遍及北京、上海、深圳、香港、纽约。我们坚信随着计算机技术的普及，程序化分析与交易将在国内证券行业引发下一场革命。";
